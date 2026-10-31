@@ -4,13 +4,16 @@ Solo founder. FinBizify teaches teenagers how real companies and real money work
 lessons built on companies they already know. Parents pay, teens use it.
 
 **Try it:** free lessons at [learn.finbizify.com](https://learn.finbizify.com), no account needed.
-The paid app launches September 2026 at [app.finbizify.com](https://app.finbizify.com).
+The paid app launched October 2026 at [app.finbizify.com](https://app.finbizify.com).
 
 ## What's public here
 
 - [finbizify-news](https://github.com/finbizify-founder/finbizify-news): an editorial pipeline that
   runs Claude Code inside GitHub Actions. It drafts short news items about public companies, each tied
   to one business concept, archives the SEC filing it cites, and opens a pull request. A human merges.
+- FInBizify App runs on a game-app and content-engine, available at app.finbizify.com
+- Interaction-Studios is our prototype repo for developing interactive elements for the paid-app
+- Social-Videos is our social media content engine, using same learning database as the app.
 
 The app and associated database are private. Contact joe@finbizify.com for more info.
 
